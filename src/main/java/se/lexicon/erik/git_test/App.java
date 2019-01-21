@@ -1,6 +1,10 @@
 package se.lexicon.erik.git_test;
 
-
+/**
+ * 
+ * @author Simon Elbrink
+ *
+ */
 public class App 
 {
     public static void main( String[] args )
